@@ -1,2 +1,8 @@
 # repoejercicios
-PreparadoresGit
+
+## subtitulo
+
+| nombre | github |
+|--------|--------|
+|ana     |m       |
+|manolo  |p       |
